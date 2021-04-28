@@ -1,0 +1,45 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudos</title>
+    <script src="https://kit.fontawesome.com/72fef56070.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="template">
+                <div class="photo">
+                    <a href="https://www.instagram.com/fred_webdev/"><img src="https://cdn.discordapp.com/attachments/574373632982384660/827541631112052756/WhatsApp_Image_2020-12-27_at_16.12.29.jpeg"></a>
+                </div>
+                <div class="background">
+                    <img src="https://cdn.discordapp.com/attachments/574373632982384660/827545825047085066/mobile-devices-2017978.png">
+                </div>
+
+                <div class="certificard">
+                    <h2>Certificado da #ImversãoDev #Alura</h2>
+                </div>
+                
+                <div class="name">
+                    <a href="https://www.instagram.com/fred_webdev/"><h2>Fred Vieira de Souza</h2></a>
+                    <a href=""><i class="fab fa-instagram"></i>@fred_webdev</a></li>
+                </div>
+
+                <div class="achievements">
+                    <ul>
+                        <li><a href="https://codepen.io/FredV7/pen/LYxPzPN">💰Conversor de moedas</a></li>
+                        <li><a href="https://codepen.io/FredV7/pen/MWJYyGx">🔢Calculadora</a></li>
+                        <li><a href="https://codepen.io/FredV7/pen/abpvNXg">🔮OMentalista</a></li>
+                        <li><a href="https://codepen.io/FredV7/pen/jOyqNYV">🎥Lista de filmes</a></li>
+                        <li><a href="https://codepen.io/FredV7/pen/LYxRJWE">🎬AluraFlix Completa</a></li>
+                        <li><a href="https://codepen.io/FredV7/pen/mdROjVQ">✔️Validação de formulário</a></li>
+                        <li><a href="https://tiroaoalvo.netlify.app/" target="_blank">🎯Game Tiro ao Alvo</a></li>
+                        <li id="certificard"><a href="">🌐Certifi "card"</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>
+</html>

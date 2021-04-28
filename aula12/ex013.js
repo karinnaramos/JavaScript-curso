@@ -36,6 +36,27 @@ switch(diaSem) {
     case 6:
         console.log('Sábado')
         break
+        case 7:
+        console.log('Domingo')
+        break
+    case 8:
+        console.log('Segunda')
+        break
+    case 9:
+        console.log('Terça')
+        break
+    case 10:
+        console.log('Quarta')
+        break
+    case 11:
+        console.log('Quinta')
+        break
+    case 12:
+        console.log('Sexta')
+        break
+    case 13:
+        console.log('Sábado')
+        break
     default:
         console.log('[ERRO] Dia inválido!')
         break
