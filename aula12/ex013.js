@@ -14,7 +14,7 @@ var diaSem = agora.getDay()
 
 //console.log(diaSem)
 
-switch(diaSem) {
+switch (diaSem) {
     case 0:
         console.log('Domingo')
         break
@@ -36,7 +36,7 @@ switch(diaSem) {
     case 6:
         console.log('Sábado')
         break
-        case 7:
+    case 7:
         console.log('Domingo')
         break
     case 8:
