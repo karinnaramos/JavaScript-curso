@@ -1,8 +1,8 @@
 var c = 1
-do{
+do {
     console.log(`passo ${c}`)
     c++
-} while(c <= 6)
+} while (c <= 6)
 
 
 

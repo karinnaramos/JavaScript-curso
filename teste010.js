@@ -28,7 +28,7 @@ console.log(n2)
         }
     </style>
 </head>
-<body> 
+<body>
     <div id= "area" onclick="clicar()" onmouseenter = "entrar()" onmouseout="sair()">
         interaja...
 
@@ -50,7 +50,7 @@ console.log(n2)
         a.style.background = 'green'
     }
 </script>
-    
+
 </body>
 </html>
 */
